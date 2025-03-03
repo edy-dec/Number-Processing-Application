@@ -10,4 +10,4 @@ Developed a robust x86 assembly language application demonstrating proficiency i
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/edy-dec/Number-Processing-Application/blob/main/LICENSE)
